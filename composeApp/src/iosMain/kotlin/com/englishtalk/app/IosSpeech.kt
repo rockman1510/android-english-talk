@@ -15,6 +15,7 @@ import platform.AVFAudio.AVAudioSessionCategoryOptionDefaultToSpeaker
 import platform.AVFAudio.AVAudioSessionCategoryPlayAndRecord
 import platform.AVFAudio.AVAudioSessionModeDefault
 import platform.AVFAudio.AVSpeechBoundary
+import platform.AVFAudio.setActive
 import platform.AVFAudio.AVSpeechSynthesisVoice
 import platform.AVFAudio.AVSpeechSynthesisVoiceQualityDefault
 import platform.AVFAudio.AVSpeechSynthesizer
