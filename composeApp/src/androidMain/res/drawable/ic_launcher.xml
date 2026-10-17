@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Simple vector launcher icon: speech bubble on a purple circle -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:fillColor="#5B4CF0" android:pathData="M54,54m-54,0a54,54 0,1 1,108 0a54,54 0,1 1,-108 0" />
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M30,32h48a8,8 0,0 1,8 8v22a8,8 0,0 1,-8 8H50l-12,10v-10h-8a8,8 0,0 1,-8 -8V40a8,8 0,0 1,8 -8z" />
+    <path android:fillColor="#00A699" android:pathData="M42,51m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+    <path android:fillColor="#00A699" android:pathData="M54,51m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+    <path android:fillColor="#00A699" android:pathData="M66,51m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+</vector>
